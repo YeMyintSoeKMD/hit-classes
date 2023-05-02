@@ -1,0 +1,18 @@
+1. Web Development Foundation						    - Free	(1.5 Month)
+	
+2. Professional Frontend Developer					    - 100000	(3 Months)
+
+3. Professional Backend Developer (PHP & Laravel)		- 150000	(2 Months)
+
+5. Fullstack Web Developer						        - 250000	(5 Months)
+
+
+6. PHP - Zero to Hero							        - 70000	(1 Month)
+7. Laravel - Zero to Hero						        - 80000	(1 Month)
+
+
+8. Git & Github								            - 20000 	(1 week)
+
+9. Json & Ajax (Fetch & Axios)					        - 30000 	(1 week)
+
+10. API Developement with Laravel					    - 50000	(1 Month)

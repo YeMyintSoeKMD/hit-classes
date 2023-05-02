@@ -1,0 +1,186 @@
+Professional Frontend Developer (Beginner to Advanced Level)
+
+✅ တက်ရောက်နိုင်သော အတန်း
+# In Class    - အပြင်သင်တန်း
+# Online      - Online Live + Video Lessons
+
+✅ HTML5, CSS3, JavaScript, jQuery - JS Library, Frontend framework တစ်ခုဖြစ်သော Bootstrap Varsion-5 ဘာသာရပ်များ နှင့် Frontend Development နဲ့ပက်သက်သော Libraries တွေ၊ Tools တွေ၊ Technologies တွေကို Basic Level မှ Advanced Level အထိသင်ပေးပြီး Responsive website တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
+
+✅ ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
+Web Designer (or) Frontend Developer ဖြစ်ချင်သူတွေ၊ နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊  Website Design ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ တက်ရောက်သင့်ပါသည်။
+
+နည်းပညာ Career နဲ့ အသက်မွှေး၀မ်းကျောင်းပြုလိုသူတွေ။ Website Template တွေကိုဖန်တီးရတာ ၊ Programming Code တွေကို ရေးရတာ ကြိုက်သော်လည်း ဘယ်လို အစပြုရမည်ကို မသိရှိသေးသူများ၊ မည်သည့် သင်တန်း၊ class ရွေးရမည်ကိုမသိသူများ ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
+
+✅ ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+Computer/ Laptop တစ်ခု ရှိထားရန် လိုအပ်ပါသည်။ Computer Basic တတ်ထားသူမည်သူမဆို တက်ရောက် လေ့လာနိုင်ပါသည်။
+
+✅ ရရှိလာမည့် ကောင်းကျိုး။
+Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Design နဲ့ပက်သက်သော Libraries တွေ၊ Technologies နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website Design ရေးနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
+
+ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
+
+
+✅ လက်တွေ့ Develop လုပ်ရမည့် Web Design Templates များ
+1. Personal Portfolio (Html, CSS)
+2. Juli - Personal Portfolio (Html, CSS, JS)
+3. FashionUp - Ecommerce Website (Html, CSS, JS)
+4. Gym & Fitness (Html, CSS, JS, Bootstrap5, Other Libraries)
+5. Own Premium Website Template
+
+✅ 𝗖𝗼𝘂𝗿𝘀𝗲 𝗢𝘂𝘁𝗹𝗶𝗻𝗲
+✅ Intro to Web Developement
+dfdf 
+dfdf 
+dfdfdf
+dfdf 
+
+✅ 𝐇𝐭𝐦𝐥
+00. Introduction
+01. Choosing Text Editor
+02. What is Html?
+03. Tags & Elements
+04. Attributes
+05. Heading & Paragraphs
+06. Comments
+07. CSS Styles
+08. Color
+09. Links
+10. Iframe
+11. Image
+12. Table
+13. Lists
+14. File Paths
+15. Head Section
+16. Layout Elements
+17. Block vs Inline Elements
+18. Form
+19. Audio
+20. YouTube Video
+21. Html Entity
+22. Html Final Project
+
+✅ 𝐂𝐒𝐒
+# 𝐁𝐚𝐬𝐢𝐜
+01. How to add CSS in Html
+02. CSS syntax
+03. CSS selector
+04. Comment
+05. Color
+06. Color Type
+07. Background
+08. Border
+09. Margin
+10. Padding
+11. Width & Height
+12. Box Model
+13. Box sizing
+14. Outline
+15. Text
+16. Font
+17. Link
+18. List
+19. Table
+# 𝐈𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞
+20. Display
+21. Position
+22. Overflow
+23. Float
+24. Combinator
+25. Pseudo Class
+26. Pseudo Element
+27. Attribute Selector
+# 𝐀𝐝𝐯𝐚𝐧𝐜𝐞
+28. Gradient
+29. Shadow effect
+30. Text effect
+31. 2D transform
+32. 3D transform
+33. Transition
+34. Animation
+35. Object fit
+36. Multi Column
+37. Flexbox (Layout)
+38. Media Query (Responsive)
+# 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+39. Responsive Personal Portfolio Website
+
+✅ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+# 𝐁𝐚𝐬𝐢𝐜
+01. JS: Introduction
+02. JS: Syntax
+03. JS: Output Methods
+04. JS: DevTools
+05. JS: Comments
+06. JS: Variables
+07. JS: Data Types
+08. JS: Expressions, Statements & Operators
+# 𝐀𝐝𝐯𝐚𝐧𝐜𝐞
+09. JS: Functions
+10. JS: Events
+11. JS: Arrays
+12. JS: Conditions
+13. JS: Loop
+14. JS: Looping Array
+15. JS: DOM
+16. JS: Form
+17. JS: On scroll Event
+18. Interval
+# 𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞
+19. Responsive Navigation Bar
+20. Compete Ecommerce Website Using Html, Css & Js
+
+✅ jQuery
+sadfasd
+asdasd
+asdasdasd
+asdasd
+asdasd
+
+✅ 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩𝟓
+# 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝐏𝐚𝐫𝐭 - 𝟏)
+01. Color (Text & Background)
+02. Border
+03. Text
+04. Shadow
+05. Spacing (Margin & Padding)
+# 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
+06. Images
+07. Tables
+# 𝐅𝐨𝐫𝐦𝐬
+08. Form control
+09. Select
+10. Checks
+11. Input Group
+12. Floating labels
+# 𝐂𝐒𝐒 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬
+13. Alerts
+14. Badge
+15. Progress bar
+16. Button & Button Groups
+17. Pagination
+18. List Groups
+19. Cards
+20. Spinners
+# 𝐉𝐒 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬
+21. Navs & Tabs
+22. Navbar
+23. Dropdown
+24. Collapse
+25. Accordion
+26. Modal
+27. Carousals
+28. Offcanvas
+# 𝐋𝐚𝐲𝐨𝐮𝐭
+29. Breakpoints(Layout Size)
+30. Layout Container
+31. Grid System
+32. Columns
+33. Gutters
+# 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝐏𝐚𝐫𝐭 - 𝟐)
+34. Display
+35. Flexbox
+36. Float
+37. Bootstrap icons
+38. CSS Variable
+# 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+39. Gym & Fitness

@@ -1,0 +1,270 @@
+One Stop & Fullstack Web Developer Class
+****************************************
+(Live + Video Lesson Class)
+
+အချိန် ၆လ အပြည့်ပေးရုံနဲ့ အိုင်တီပိုင်းက Fullstack Web Developer ရာထူးနဲ့ အလုပ်ဝင်လို့ရနေပါပြီ။ 
+
+ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
+1. Json, Ajax                       - ၅၀,၀၀၀ ကျပ်တန်
+2. API Development with Laravel     - ၇၀,၀၀၀ ကျပ်တန်
+3. Git & GitHub                     - ၃၀,၀၀၀ ကျပ်တန်
+စုစုပေါင်း ၁၅၀၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၃ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
+
+
+ပြည်တွင်း ပြည်ပမှာ လစာ ကောင်းကောင်းနဲ့ Professional ဆန်ဆန် Fullstack Web Developer အနေနဲ့ အလုပ်လုပ် ချင်ပါသလား?။ ဟုတ်တယ် ဆိုရင် မိတ်ဆွေ ပေါ့ပေါ့တန်တန် မနေတော့ဘဲ၊ မိတ်ဆွေရဲ့ Career ကိုဒီ အတန်းကနေ အမိအရဖမ်းယူပြီး စတင်လိုက်ပါ။
+
+ဒီ Course မှာဆိုရင် Frontend Web Design Development ရော၊ Backend Web Development ရော ၂ မျိုး စလုံးကို သေသေရှာရှာ ပြည့်ပြည့်စုံစုံ From Scratch(From the Very Beginning) ကနေ to the Very Advanced Level အထိ သင်ပေးတဲ့ Course မလို့ Fullstack Web Developer ဖြစ်ချင်တဲ့ လူငယ်တိုင်း လက်လွှတ် မသင့်တဲ့ Course ဖြစ်ပါတယ်။ Frontend ရော၊ Backend မှာရော ဘာတွေ သင်မှာလဲ ဆိုတော့ Course Outline Section မှာဖော် ပြထားပါတယ်။
+
+
+# ဘာလို့ Fullstack PHP Web Developer တစ်ယောက် အနေနဲ့ ရပ်တည် သင့်လဲ?။
+******************************
+PHP ကဆိုရင် Web Development လောကမှာ နာမည် အရမ်းကြီးပြီး လူသုံးများဆုံး Programming (server-side) Language တစ်ခုဆိုလည်း မမှားပါဘူး။
+ဘာလို့ ဒီလို ပြောနိုင်သလဲ ဆိုတော့ W3Techs' Data (Web Technology Surveys) ရဲ့ technology survey အချက်အလက်များအရ Online ပေါ်မှာ ရှိနေကြတဲ့ Website တွေရဲ့ 77.8% ကို PHP Programming (Server Side) Language နဲ့ရေးထားတာပါတဲ့။ ပြောချင်တာက Internet ပေါ်မှာ ကျွန်တော်တို့ဝင်ဝင်ကြည့်နေကြတဲ့ Website ၁၀ ခုမှာ ၈ ခုဟာဆိုရင်ဖြင့် PHP ကို ​​တစ်နည်းနည်းနဲ့ အသုံးပြုထားတာပါတဲ့။ - ref: kinsta.com. 
+PHP ကိုသုံးထားတဲ့ Popular Website/App တွေကတော့ (Facebook, Wikipedia, WhatsApp, WordPress, Pinterest, Vk, Vimeo, Zoom, WordPress, Mozilla) တွေဖြစ်ကြပါတယ်။ - ref: w3techs.com. 
+ကဲ… ဒါဆိုရင် ဒီ Web Development with PHP Coure မှာ ဆိုရင် Web Development လောကမှာ နာမည်အကြီးဆုံးနဲ့ လူသုံးအများဆုံးဖြစ်တဲ့ PHP Server Side Programming ကို Backend ပိုင်းအတွက် လုံးဝ (လုံးဝ) အခြေခံအဆင့်က နေ Dynamic Website / Web Application တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည် အထိသင်ကြားပေးတဲ့ အတန်းဖြစ်ပါတယ်။
+
+
+# ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
+******************************
+Web Designer (or) Frontend Developer, Web Developer, Web Engineer, Software Engineer, Backend Developer, Programmer ဖြစ်ချင်သူတွေ၊ နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊ ကိုယ့်ရဲ့ Coding Skill ကို မြှင့်တင်လိုကြတဲ့ HND၊ NCC ကျောင်းသူ/သားတွေ၊ Backend ပိုင်းတော့ ရတယ် Frontend ပိုင်းသိပ်မရသေးသလို ခံစားနေကြတဲ့ Developer တွေ၊ Design(Frontend) ပိုင်းတော့ ရတယ် Backend ပိုင်းသိပ်မရသေးသလို ခံစားနေကြတဲ့ Developer တွေ၊  Web Development ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ တက်ရောက်သင့်ပါတယ်။ အလုပ်တစ်ဖက်နဲ့ ကိုယ်အားတဲ့ အချိန်တွေမှာပဲ Video Lesson တွေနဲ့ လေ့လာချင်သူတွေသက်ရောက်သင့်သော အတန်းဖြစ်ပါသည်။
+နည်းပညာ Career နဲ့ အသက်မွှေးဝမ်းကျောင်းပြုလိုသူတွေ။ Website Template တွေကိုဖန်တီးရတာ ၊ Web Developing လုပ်ရတာ၊ Programming Code တွေကို ရေးရတာ ကြိုက်သော်လည်း ဘယ်လို အစပြုရမည်ကို မသိရှိသေးသူများ၊ မည်သည့် သင်တန်း၊ Class ရွေးရမည်ကိုမသိသူများ ဒီ Course ကို တက်ရောက် နိုင်ပါသည်။
+
+
+# ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+******************************
+Computer/ Laptop တစ်ခုနှင့် Internet Connection ရှိထားရန် လိုပါသည်။ Computer Basic တတ်ထားသူမည်သူမဆို တက်ရောက် လေ့လာနိုင်ပါသည်။
+
+
+#  ရရှိလာမည့် ကောင်းကျိုး။
+******************************
+Course တစ်ခုလုံး Series အလိုက် Google Class Room တွင် Life Time Access ပေးသွားမည်ဖြစ်ပါသည်။ Web Development Language တွေဖြစ်ကြတဲ့ Html, CSS, etc... ကစ PHP, MySQL, Laravel, API, etc... တို့ကို အခြေခံကစပြီး အဆင့်မြင့်ထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website Design ရေးနည်း နှင့် Website Developing တွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။ ဘာသာရပ် တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။ နောက်ပြီးတော့ Web Development with PHP ပြီးသွားရင် နောက်ထပ် ထပ်တက်သင့်တဲ့ Hornbill Technology ရဲ့ Course တွေဖြစ်ကြတဲ့ Laravel, Vue.js, Laravel & Vue.js, React.js, Laravel & React.js Course တွေကို ၃၀% discount နဲ့တက်ခွင့် ရမှာပဲ ဖြစ်ပါတယ်။
+
+
+# လက်တွေ့ Develop လုပ်ရမဲ့ Projects များ
+******************************
+- For Frontend - Web Design (Frontend)
+~ Juli - Personal Portfolio Website Template
+~ FashionUp - eCommerce Website Temaplate
+~ Gym & Fitness Website Template
+
+- For Backend
+~ CRUD App with File Uploading
+~ Hornbill Blogging System using PHP & MySQL (PDO)
+~ eCommerce System using Laravel & MySQL
+*
+*
+# သင်ကြားပေးမည့်ပုံစံ
+******************************
+ဆရာကိုယ်တိုင် ၁ လမှာ ၂ရက် Tuesday ညနေတိုင်း Live Session ဖန်တီးပြီး စာတွေသင်ပေးခြင်း၊ စာတွေမေးခြင်း တွေကိုပြုလုပ်သွားမှာဖြစ်ပါတယ်။
+Google Class Room တွင် မြန်မာစကားဖြင့် အရှင်းလင်းဆုံး စာတွေ့၊ လက်တွေ့ Episode အလိုက် Step-by-Step Prerecorded Video သင်ခန်းစာများနဲ့ လေ့လာရမှာ ဖြစ်ပါတယ်။ Online Class ဖြစ်သည့်အတွက် သင်ခန်းစာများကို အချိန်မရွေး၊ နေရာမရွေး အကြိမ်ကြိမ် လေ့လာလို့ရပါတယ်။
+သင်ခန်းစာများကို Class တစ်ခုချင်းစီ ကို Series/Episode အလိုက် သေချာစနစ်တကျ သင်ကြားပေး ထားတာဖြစ်လို့ လေ့လာရ လွယ်ကူပါတယ်။ Basic Level ကနေစပြီး Advanced Level အဆင့်ရောက်တဲ့အထိ သင်ကြားရမှာ ဖြစ်ပါတယ်နော်။
+
+
+# Course Outline
+******************************
+Frontend (Web Design) ပိုင်းမှာ Html, CSS, jQuery, JavaScript, Bootstrap5 တွေကို လက်တွေ့ Exercise တွေ၊ Project တွေနဲ့ ပြည့်ပြည့် စုံစုံ သင်ယူရမှာဖြစ်ပါတယ်။
+
+✅ 𝐇𝐭𝐦𝐥
+00. Introduction
+01. Choosing Text Editor
+02. What is Html?
+03. Tags & Elements
+04. Attributes
+05. Heading & Paragraphs
+06. Comments
+07. CSS Styles
+08. Color
+09. Links
+10. Iframe
+11. Image
+12. Table
+13. Lists
+14. File Paths
+15. Head Section
+16. Layout Elements
+17. Block vs Inline Elements
+18. Form
+19. Audio
+20. YouTube Video
+21. Html Entity
+22. Html Final Project
+
+
+✅ 𝐂𝐒𝐒
+⛔ 𝐁𝐚𝐬𝐢𝐜
+01. How to add CSS in Html
+02. CSS syntax
+03. CSS selector
+04. Comment
+05. Color
+06. Color Type
+07. Background
+08. Border
+09. Margin
+10. Padding
+11. Width & Height
+12. Box Model
+13. Box sizing
+14. Outline
+15. Text
+16. Font
+17. Link
+18. List
+19. Table
+
+⛔ 𝐈𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞
+20. Display
+21. Position
+22. Overflow
+23. Float
+24. Combinator
+25. Pseudo Class
+26. Pseudo Element
+27. Attribute Selector
+
+⛔ 𝐀𝐝𝐯𝐚𝐧𝐜𝐞
+28. Gradient
+29. Shadow effect
+30. Text effect
+31. 2D transform
+32. 3D transform
+33. Transition
+34. Animation
+35. Object fit
+36. Multi Column
+37. Flexbox (Layout)
+38. Media Query (Responsive)
+
+⛔ 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+39. Responsive Personal Portfolio Website
+
+
+✅ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+⛔ 𝐁𝐚𝐬𝐢𝐜
+01. JS: Introduction
+02. JS: Syntax
+03. JS: Output Methods
+04. JS: DevTools
+05. JS: Comments
+06. JS: Variables
+07. JS: Data Types
+08. JS: Expressions, Statements & Operators
+
+⛔ 𝐀𝐝𝐯𝐚𝐧𝐜𝐞
+09. JS: Functions
+10. JS: Events
+11. JS: Arrays
+12. JS: Conditions
+13. JS: Loop
+14. JS: Looping Array
+15. JS: DOM
+16. JS: Form
+17. JS: On scroll Event
+18. Interval
+
+⛔ 𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞
+19. Responsive Navigation Bar
+20. Compete Ecommerce Website Using Html, Css & Js
+
+
+✅ 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩𝟓
+⛔ 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝐏𝐚𝐫𝐭 - 𝟏)
+01. Color (Text & Background)
+02. Border
+03. Text
+04. Shadow
+05. Spacing (Margin & Padding)
+
+⛔ 𝐂𝐨𝐧𝐭𝐞𝐧𝐭
+06. Images
+07. Tables
+
+⛔ 𝐅𝐨𝐫𝐦𝐬
+08. Form control
+09. Select
+10. Checks
+11. Input Group
+12. Floating labels
+
+⛔ 𝐂𝐒𝐒 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬
+13. Alerts
+14. Badge
+15. Progress bar
+16. Button & Button Groups
+17. Pagination
+18. List Groups
+19. Cards
+20. Spinners
+
+⛔ 𝐉𝐒 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬
+21. Navs & Tabs
+22. Navbar
+23. Dropdown
+24. Collapse
+25. Accordion
+26. Modal
+27. Carousals
+28. Offcanvas
+
+⛔ 𝐋𝐚𝐲𝐨𝐮𝐭
+29. Breakpoints(Layout Size)
+30. Layout Container
+31. Grid System
+32. Columns
+33. Gutters
+
+⛔ 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝐏𝐚𝐫𝐭 - 𝟐)
+34. Display
+35. Flexbox
+36. Float
+37. Bootstrap icons
+38. CSS Variable
+
+⛔ 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+39. Gym & Fitness
+
+
+Backend ပိုင်းမှာဆိုရင် ဖြင့် PHP, MySQL, Json, Ajax, Api with PHP တွေကို သေသေသပ်သပ် သေသေချာချာ လက်တွေ့ Project တွေနဲ့ ပြည့်ပြည့် စုံစုံ သင်ယူရမှာဖြစ်ပါတယ်။
+
+01. Intro
+02. Development Environment
+03. Syntax
+04. Comments
+05. Output Methods
+06. Variables
+07. Expression & Statement
+08. Data Type
+09. String
+10. Number, Boolean & Null
+11. Array
+12. Math
+13. Operators
+14. Conditions
+15. Loops
+16. Array Loops
+17. Functions
+18. Date & Time
+19. Include
+20. File Handling
+21. Useful Functions
+22. Super Global Variables
+23. Redirecting to a File
+24. Form & Requests Handling
+25. File Upload
+26. Session
+27. Cookies
+28. MySQL Database & SQL
+29. Hornbill Blogging System - Final Project
+
+# Technologies Use
+- Frontend     => HTML, CSS, JavaScript & Bootstrap
+- Backend      => PHP & MySQL (PDO)
+
+
+# သင်တန်းကြေး @ သင်္ကြန် ပရိုမိုးရှင်း     => 120,000 ကျပ် (before 08.04.2023 - သင်္ကြန် မတိုင်မီ အထိ )
+
+
+# ပုံမှန် သင်တန်းကြေး    => 200,000 ကျပ်
+# ယခု သင်တန်းကြေး    => 150,000 ကျပ်
+
+သင်တန်း အပ်ရန် Page Messenger မှာစာရင်းလာသွင်းပေးပါ။
