@@ -27,12 +27,23 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 4. Gym & Fitness (Html, CSS, JS, Bootstrap5, Other Libraries)
 5. Own Premium Website Template
 
-✅ 𝗖𝗼𝘂𝗿𝘀𝗲 𝗢𝘂𝘁𝗹𝗶𝗻𝗲
+✅ Modules
+1. Intro to Web Developement
+2. Html,
+3. CSS,
+4. JavaScript,
+5. jQuery,
+6. Bootstrap5,
+7. Related Libraries,
+8. 5 Projects
+9. Website Template Hosting
+
+
+✅ Modules' 𝗢𝘂𝘁𝗹𝗶𝗻𝗲s
 ✅ Intro to Web Developement
-dfdf 
-dfdf 
-dfdfdf
-dfdf 
+1. What is web development?
+2. What is a Website? 
+3. Understanding the Differences of Web Design, Front-end and Back-end Development
 
 ✅ 𝐇𝐭𝐦𝐥
 00. Introduction
