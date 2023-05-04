@@ -1,0 +1,80 @@
+Professional Backend Developer (PHP & Laravel)
+
+✅ တက်ရောက်နိုင်သော အတန်း
+# In Class    - အပြင်သင်တန်း
+# Online      - Online Live + Video Lessons
+
+ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
+1. Json & Ajax                         - ၅၀,၀၀၀ ကျပ်တန်
+2. API Development with Laravel        - ၁၀၀,၀၀၀ ကျပ်တန်
+3. Git & GitHub                        - ၅၀,၀၀၀ ကျပ်တန်
+စုစုပေါင်း ၂၀၀,၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၃ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
+
+✅ PHP, PHP ရဲ့ Popular အဖြစ်ဆုံး Framework ဖြစ်တဲ့ Laravel, SQL, MySQL Database, PostgreSQL Database နှင့် ဆက်စပ် Backend Technologies တွေကို  Basic Level မှ Advanced Level အထိသင်ပေးပြီး Dynamic Website, Web Application တွေကို မိမိကိုယ်တိုင် ရေးသားဖန်တီး တည်ဆောက်နိုင်သည်အထိ လေ့ကျင့် သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
+
+✅ ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
+Web Developer, Web Engineer, Software Engineer, Backend Developer, Programmer ဖြစ်ချင်သူတွေ၊ နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊ ကိုယ့်ရဲ့ Coding Skill ကိုမြှင့်တင်ချင်ကြတဲ့ HND & NCC တက်နေကြတဲ့ ကျောင်းသူ/သားတွေ၊ Web Development ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ တက်ရောက်သင့်ပါတယ်။ Frontend Development ဖြစ်တဲ့ HTML, CSS, JavaScript တို့ကိုတော့လေ့လာထားပြီးပြီ ဒါပေမယ့် နောက်ထပ်ဘာကို လေ့လာရမလဲဆိုတာ မသိတဲ့သူတွေ၊ PHP နှင့် Laravel Framework ကို သေသေချာချာ၊ သပ်သပ်ရပ်ရပ်လေ့လာချင်သူတွေ၊ နည်းပညာ Career နဲ့ အသက်မွှေး၀မ်းကျောင်းပြုလိုသူတွေ။ Website, Web Application တွေကိုဖန်တီးရတာ, Freelance Web Developer ဖြစ်ချင်သူတွေ ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
+
+✅ ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+Computer/ Laptop တစ်ခု ရှိထားရန် လိုအပ်ပါသည်။ Frontend Development ဖြစ်တဲ့ Html, CSS, JavaScript, Bootstrap တတ်ထားသူများ (သို့) HIT ရဲ့ Web Developement Foundation (or) Professional Frontend Developer Class တက်ထားသူများ တက်ရောက်နိုင်ပါသည်။
+
+✅ ရရှိလာမည့် ကောင်းကျိုး။
+PHP, Laravel နှင့် Database Backend Web Developement နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website, Web Application ရေးနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
+
+ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
+
+✅ Modules
+1. PHP (PDO), SQL & MySQL
+2. Laravel, MySQL & PostgreSQL
+3. Two Projects
+
+
+✅ Modules' Outlines
+✅ 1. PHP (PDO), SQL & MySQL
+01. Intro
+02. Development Environment
+03. Syntax
+04. Comments
+05. Output Methods
+06. Variables
+07. Expression & Statement
+08. Data Type
+09. String
+10. Number, Boolean & Null
+11. Array
+12. Math
+13. Operators
+14. Conditions
+15. Loops
+16. Array Loops
+17. Functions
+18. Date & Time
+19. Include
+20. File Handling
+21. Useful Functions
+22. Super Global Variables
+23. Redirecting to a File
+24. Form & Requests Handling
+25. File Upload
+26. Session
+27. Cookies
+28. MySQL Database & SQL
+
+
+✅ 2. Laravel, MySQL & PostgreSQL
+
+
+✅ 3. Two Projects
+1. Hornbill Blogging System - PHP Final Project
+# Technologies Use
+- Frontend     => HTML, CSS, JavaScript & Bootstrap
+- Backend      => PHP & MySQL (PDO)
+
+2. eCommerce Web Application
+# Technologies Use
+- Frontend      => HTML, CSS, JavaScript & Bootstrap
+- Backend       => Laravel & PostgreSQL
+
+
+သင်တန်းကြေး
+In Class        =>    
