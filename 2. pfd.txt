@@ -1,33 +1,33 @@
 Professional Frontend Developer (Beginner to Advanced Level)
 
-✅ တက်ရောက်နိုင်သော အတန်း
+🎯 တက်ရောက်နိုင်သော အတန်း
 # In Class    - အပြင်သင်တန်း
 # Online      - Online Live + Video Lessons
 
-✅ HTML5, CSS3, JavaScript, jQuery - JS Library, Frontend framework တစ်ခုဖြစ်သော Bootstrap Varsion-5 ဘာသာရပ်များ နှင့် Frontend Development နဲ့ပက်သက်သော Libraries တွေ၊ Tools တွေ၊ Technologies တွေကို Basic Level မှ Advanced Level အထိသင်ပေးပြီး Responsive website တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
+🎯 HTML5, CSS3, JavaScript, jQuery - JS Library, Frontend framework တစ်ခုဖြစ်သော Bootstrap Varsion-5 ဘာသာရပ်များ နှင့် Frontend Development နဲ့ပက်သက်သော Libraries တွေ၊ Tools တွေ၊ Technologies တွေကို Basic Level မှ Advanced Level အထိသင်ပေးပြီး Responsive website တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
 
-✅ ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
+🎯 ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
 Web Designer (or) Frontend Developer ဖြစ်ချင်သူတွေ၊ နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊  Website Design ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ တက်ရောက်သင့်ပါသည်။
 
 နည်းပညာ Career နဲ့ အသက်မွှေး၀မ်းကျောင်းပြုလိုသူတွေ။ Website Template တွေကိုဖန်တီးရတာ ၊ Programming Code တွေကို ရေးရတာ ကြိုက်သော်လည်း ဘယ်လို အစပြုရမည်ကို မသိရှိသေးသူများ၊ မည်သည့် သင်တန်း၊ class ရွေးရမည်ကိုမသိသူများ ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
 
-✅ ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+🎯 ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
 Computer/ Laptop တစ်ခု ရှိထားရန် လိုအပ်ပါသည်။ Computer Basic တတ်ထားသူမည်သူမဆို တက်ရောက် လေ့လာနိုင်ပါသည်။
 
-✅ ရရှိလာမည့် ကောင်းကျိုး။
+🎯 ရရှိလာမည့် ကောင်းကျိုး။
 Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Design နဲ့ပက်သက်သော Libraries တွေ၊ Technologies နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website Design ရေးနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
 
 ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
 
 
-✅ လက်တွေ့ Develop လုပ်ရမည့် Web Design Templates များ
+🎯 လက်တွေ့ Develop လုပ်ရမည့် Web Design Templates များ
 1. Personal Portfolio (Html, CSS)
 2. Juli - Personal Portfolio (Html, CSS, JS)
 3. FashionUp - Ecommerce Website (Html, CSS, JS)
 4. Gym & Fitness (Html, CSS, JS, Bootstrap5, Other Libraries)
 5. Own Premium Website Template
 
-✅ Modules
+🎯 Modules (သင်ယူရမည် ဘာသာရပ်များ)
 1. Intro to Web Developement
 2. Html,
 3. CSS,
@@ -38,7 +38,7 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 8. 5 Projects
 9. Website Template Hosting
 
-✅ Modules' Outlines
+🎯 Modules' Outlines
 ✅ Intro to Web Developement
 1. What is web development?
 2. What is a Website? 

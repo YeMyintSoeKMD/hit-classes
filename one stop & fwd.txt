@@ -43,6 +43,7 @@ Course တစ်ခုလုံး Series အလိုက် Google Class Room �
 # လက်တွေ့ Develop လုပ်ရမဲ့ Projects များ
 ******************************
 - For Frontend - Web Design (Frontend)
+~ Personal Website
 ~ Juli - Personal Portfolio Website Template
 ~ FashionUp - eCommerce Website Temaplate
 ~ Gym & Fitness Website Template
