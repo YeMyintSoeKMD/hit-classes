@@ -27,7 +27,8 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 4. Gym & Fitness (Html, CSS, JS, Bootstrap5, Other Libraries)
 5. Own Premium Website Template
 
-🎯 Modules (သင်ယူရမည် ဘာသာရပ်များ)
+🎯 Modules (သင်ယူရမည့် ဘာသာရပ်များ)
+Frontend Web Developement နည်းပညာ ဘာသာရပ်တွေကို ကိုစုံစုံလင်လင် စနစ်တကျသင်ယူရပါမည်။
 1. Intro to Web Developement
 2. Html,
 3. CSS,
@@ -35,16 +36,16 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 5. jQuery,
 6. Bootstrap5,
 7. Related Libraries,
-8. 5 Projects
+8. Five Projects
 9. Website Template Hosting
 
 🎯 Modules' Outlines
-✅ Intro to Web Developement
+✅ 1. Intro to Web Developement
 1. What is web development?
 2. What is a Website? 
 3. Understanding the Differences of Web Design, Front-end and Back-end Development
 
-✅ 𝐇𝐭𝐦𝐥
+✅ 2. 𝐇𝐭𝐦𝐥
 00. Introduction
 01. Choosing Text Editor
 02. What is Html?
@@ -69,7 +70,7 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 21. Html Entity
 22. Html Final Project
 
-✅ 𝐂𝐒𝐒
+✅ 3. 𝐂𝐒𝐒
 # 𝐁𝐚𝐬𝐢𝐜
 01. How to add CSS in Html
 02. CSS syntax
@@ -114,7 +115,7 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 # 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 39. Responsive Personal Portfolio Website
 
-✅ 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
+✅ 4. 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
 # 𝐁𝐚𝐬𝐢𝐜
 01. JS: Introduction
 02. JS: Syntax
@@ -139,14 +140,14 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 19. Responsive Navigation Bar
 20. Compete Ecommerce Website Using Html, Css & Js
 
-✅ jQuery
+✅ 5. jQuery
 sadfasd
 asdasd
 asdasdasd
 asdasd
 asdasd
 
-✅ 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩𝟓
+✅ 6. 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩𝟓
 # 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 (𝐏𝐚𝐫𝐭 - 𝟏)
 01. Color (Text & Background)
 02. Border
@@ -194,6 +195,20 @@ asdasd
 38. CSS Variable
 # 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 39. Gym & Fitness
+
+✅ 7. Related Libraries
+Frontend Developement နည်းပယ်မှာ အရမ်းအသုံးဝင်တဲ့ Libraries တွေကို သေချာသုံးတတ်အောင် သင်ပေးမယ့် Module ဖြစ်ပါတယ်။
+
+✅ 8. Five Projects
+လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ တတ်ကျွမ်းသွားအောင် အောက်ပါ Project ၅ ခုကို လက်တွေ့ကျကျ ရေးသားသင်ပေးပါမည်။
+1. Personal Portfolio (Html, CSS)
+2. Juli - Personal Portfolio (Html, CSS, JS)
+3. FashionUp - Ecommerce Website (Html, CSS, JS)
+4. Gym & Fitness (Html, CSS, JS, Bootstrap5, Other Libraries)
+5. Own Premium Website Template
+
+✅ 9. Website Template Hosting
+ကိုယ်ရေးထားတဲ့ Website Temaplate တွေကို Internet ရှိရုံနဲ့ ဘယ် Device ကနေမဆို ဝင်ရောက်ကြည့်ရှုနိုင်အောင် ဘယ်လို Online ပေါ်ရောက်အောင် Host လုပ်မလဲဆိုတာ သင်ပေးမည့် Modlue ဖြစ်ပါတယ်။
 
 
 
