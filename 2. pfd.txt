@@ -20,6 +20,13 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
 
 
+🎯 သင်ကြားပေးမည့်ပုံစံ
+၁. ကျောင်းသူ/ကျောင်းသား များဘက်မှာ ၁ ပါတ်မှာ ၅ ရက် သင်ယူရပါမည်။
+၂. ဆရာကိုယ်တိုင် တစ်ပါတ် ၁ ရက် (Tuesday 7:30pm to 9:00pm) ညနေတိုင်း ZOOM Live Session နဲ့ သင်ပေးပါမယ်။
+၃. ကျန် ၄ ရက်စာ လေ့လာရဲ့မယ့် Lesson တွေကို Google Class Room မှာ ဆရာ့ Video Lessons တွေကို တင်ပေးထားမှာဖြစ်ပါတယ်။
+၄. အပါတ်တိုင်း Monday မတိုင်ခင်မှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။
+
+
 🎯 လက်တွေ့ Develop လုပ်ရမည့် Web Design Templates များ
 1. Personal Portfolio (Html, CSS)
 2. Juli - Personal Portfolio (Html, CSS, JS)
@@ -28,7 +35,7 @@ Html5, CSS3, JavaScript, jQuery, Bootstrap5 နှင့် Frontend - Web Desig
 5. Own Premium Website Template
 
 🎯 Modules (သင်ယူရမည့် ဘာသာရပ်များ)
-Frontend Web Developement နည်းပညာ ဘာသာရပ်တွေကို ကိုစုံစုံလင်လင် စနစ်တကျသင်ယူရပါမည်။
+Frontend Web Developement နည်းပညာ ဘာသာရပ်တွေကို စုံစုံလင်လင် စနစ်တကျသင်ယူရပါမည်။
 1. Intro to Web Developement
 2. Html,
 3. CSS,
