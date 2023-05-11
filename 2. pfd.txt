@@ -1,11 +1,11 @@
 Professional Frontend Developer (Beginner to Advanced Level)
 
-<!-- 🎯 Online Live + Video Lessons Class 🎯 -->
+🎯 Online Class (Live + Video Lessons)
 
-ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးတဲ့ 
-၁. Git & GitHub                         - ၅၀,၀၀၀ ကျပ်တန်
-၂. Next Step JavaScript                 -  ၈၀,၀၀၀ ကျပ်တန်
-စုစုပေါင်း ၁၃၀,၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၂ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
+🎯ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးတဲ့ 
+၁. Git & GitHub                        - ၅၀,၀၀၀ ကျပ်တန်
+၂. Json & Ajax                         - ၅၀,၀၀၀ ကျပ်တန်
+စုစုပေါင်း ၁၀,၀၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၂ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
 
 🎯 HTML5, CSS3, JavaScript, jQuery - JS Library, Frontend framework တစ်ခုဖြစ်သော Bootstrap Varsion-5 ဘာသာရပ်များ နှင့် Frontend Development နဲ့ပက်သက်သော Libraries တွေ၊ Tools တွေ၊ Technologies တွေကို Basic Level မှ Advanced Level အထိသင်ပေးပြီး Responsive Website Template တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
 
@@ -215,3 +215,17 @@ Frontend Development နည်းပယ်မှာ အရမ်းအသုံ�
 
 ✅ 9. Website Template Hosting
 ကိုယ်ရေးထားတဲ့ Website Template တွေကို Internet ရှိရုံနဲ့ ဘယ် Device ကနေမဆို ဝင်ရောက်ကြည့်ရှုနိုင်အောင် ဘယ်လို Online ပေါ်ရောက်အောင် Host လုပ်မလဲဆိုတာ သင်ပေးမည့် Module ဖြစ်ပါတယ်။
+
+
+🎯 Class Date, Time & Duration Info
+# Class Start Date  - 00.00.2023
+# Time              - Tuesday 7:30pm to 9:00pm
+# Duration          - 3 Months
+
+
+🎯 Class Fee
+# 200,000 MMK
+
+
+🎯 Class Registration (သင်တန်းအပ်ရန်)
+သင်တန်းအပ်ရန် Page Messenger မှာ PWD လို့ပို့ပေးပါ။ (သို့မဟုတ်) 09 403 438 913 သို့လည်း ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။

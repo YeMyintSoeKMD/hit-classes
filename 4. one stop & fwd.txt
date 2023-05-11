@@ -1,25 +1,26 @@
 One Stop & Fullstack Web Developer Class
-****************************************
-(Live + Video Lesson Class)
 
-✅ အချိန် ၆လ အပြည့်ပေးရုံနဲ့ IT နယ်ပယ်က Web Developer ရာထူးနဲ့ အလုပ်ဝင်လို့ရနေပါပြီ။ 
+🎯 Online Class (Live + Video Lessons)
+
+✅ အချိန် ၅ လ အပြည့်ပေးရုံနဲ့ IT နယ်ပယ်မှာ Web Developer ရာထူးနဲ့ အလုပ်ဝင်လို့ရနေပါပြီ။ 
 
 ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
-1. Json & Ajax                          - ၅၀,၀၀၀ ကျပ်တန်
-2. API Development with Laravel         - ၁၀၀,၀၀၀ ကျပ်တန်
-3. Git & GitHub                         - ၅၀,၀၀၀ ကျပ်တန်
-စုစုပေါင်း ၂ သိန်း ကျပ် ကျသင့်မည့် အတန်း ၃ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
+1. Git & GitHub                         - ၅၀,၀၀၀ ကျပ်တန်
+2. Json & Ajax                          - ၅၀,၀၀၀ ကျပ်တန်
+3. API Development with Laravel         - ၁၀၀,၀၀၀ ကျပ်တန်
+စုစုပေါင်း ၂၀,၀၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၄ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
 
 
-✅ ပြည်တွင်း ပြည်ပမှာ လစာ ကောင်းကောင်းနဲ့ IT နည်းပညာ‌ရှင် အဖြစ် Professional ဆန်ဆန် Fullstack Web Developer အနေနဲ့ အလုပ်လုပ် ချင်ပါသလား?။
-✅ အသက်မွှေးဝမ်းကျောင်း အလုပ်တွေထဲမှာ IT အလုပ်က ဝင်ငွေအများဆုံး Career တစ်ခုဖြစ်နေတယ်ဆိုတာရော သင်သိပြီးပြီးလား?။
-✅ ဒါဆိုရင် သင်ရော ပြည်တွင်းပြည်ပမှာ Professional ဆန်ဆန် အလုပ်လုပ်ပြီး လစာဝင်ငွေကောင်းကောင်းနဲ့ အလုပ်လုပ်ချင်ပါသလား?။
-✅ ဟုတ်တယ် ဆိုရင် ပေါ့ပေါ့တန်တန် မနေတော့ဘဲ၊ ဘဝအတွက် သင့်ရဲ့ Career ကိုဒီ အတန်းကိုတက်ပြီး အမိအရဖမ်းယူပြီး စတင်လိုက်ပါ။
+❓ ပြည်တွင်း ပြည်ပမှာ လစာ ကောင်းကောင်းနဲ့ IT နည်းပညာ‌ရှင် အဖြစ် Professional ဆန်ဆန် Fullstack Web Developer အနေနဲ့ အလုပ်လုပ် ချင်ပါသလား?။
+❓ အသက်မွှေးဝမ်းကျောင်း အလုပ်တွေထဲမှာ IT အလုပ်က ဝင်ငွေအများဆုံး Career တစ်ခုဖြစ်နေတယ်ဆိုတာရော သင်သိပြီးပြီးလား?။
+❓ ဒါဆိုရင် သင်ရော ပြည်တွင်းပြည်ပမှာ Professional ဆန်ဆန် အလုပ်လုပ်ပြီး လစာဝင်ငွေကောင်းကောင်းနဲ့ အလုပ်လုပ်ချင်ပါသလား?။
 
-ဒီ Class မှာဆိုရင် Frontend Web Design Development ရော၊ Backend Web Development ရော ၂ မျိုး စလုံးကို သေသေရှာရှာ ပြည့်ပြည့်စုံစုံ From Scratch(From the Very Beginning) ကနေ to the Very Advanced Level အထိ သင်ပေးတဲ့ Class မလို့ IT နည်းပညာ‌ လောကမှာ Fullstack Web Developer ဖြစ်ချင်တဲ့ လူငယ်တိုင်း လက်လွှတ် မသင့်တဲ့ Class ဖြစ်ပါတယ်။ Frontend ရော၊ Backend မှာရော ဘာတွေ သင်မှာလဲ ဆိုတော့ Course Outline Section မှာဖော် ပြထားပါတယ်။
+Junior Web Developer ရာထူးနဲ့ အလုပ်တန်း ဝင်နိုင်မယ့် One Stop အတန်းဖြစ်တဲ့ One Stop & Fullstack Web Developer အတန်းကို တက်ရောက်ပြီး မိမိ အိပ်မက်ကို အကောင်ထည်ဖော်လိုက်ပါ။
+
+ဒီ Class မှာဆိုရင် Frontend Web Design Development ရော၊ Backend Web Development ရော ၂ မျိုး စလုံးကို သေသေရှာရှာ ပြည့်ပြည့်စုံစုံ From Scratch(From the Very Beginning) ကနေ to the Very Advanced Level အထိ သင်ပေးတဲ့ Class မလို့ IT နည်းပညာ‌ လောကမှာ Fullstack Web Developer ဖြစ်ချင်တဲ့ လူငယ်တိုင်း လက်လွှတ် မသင့်တဲ့ Class ဖြစ်ပါတယ်။ Frontend ရော၊ Backend မှာရော ဘာတွေ သင်မှာလဲ ဆိုတာကိုတော့ Course Outline Section မှာဖော် ပြထားပါတယ်။
 
 
-✅ ဘာလို့ Fullstack PHP Web Developer တစ်ယောက် အနေနဲ့ ရပ်တည် သင့်လဲ?။
+🎯 ဘာလို့ Fullstack PHP Web Developer တစ်ယောက် အနေနဲ့ ရပ်တည် သင့်လဲ?။
 ******************************
 PHP ကဆိုရင် Web Development လောကမှာ နာမည် အရမ်းကြီးပြီး လူသုံးများဆုံး Programming (server-side) Language တစ်ခုဆိုလည်း မမှားပါဘူး။
 ဘာလို့ ဒီလို ပြောနိုင်သလဲ ဆိုတော့ W3Techs' Data (Web Technology Surveys) ရဲ့ technology survey အချက်အလက်များအရ Online ပေါ်မှာ ရှိနေကြတဲ့ Website တွေရဲ့ 77.8% ကို PHP Programming (Server Side) Language နဲ့ရေးထားတာပါတဲ့။ ပြောချင်တာက Internet ပေါ်မှာ ကျွန်တော်တို့ဝင်ဝင်ကြည့်နေကြတဲ့ Website ၁၀ ခုမှာ ၈ ခုဟာဆိုရင်ဖြင့် PHP ကို ​​တစ်နည်းနည်းနဲ့ အသုံးပြုထားတာပါတဲ့။ - ref: kinsta.com. 
@@ -27,7 +28,7 @@ PHP ကိုသုံးထားတဲ့ Popular Website/App တွေကတ�
 ကဲ… ဒါဆိုရင် ဒီ Web Development with PHP Coure မှာ ဆိုရင် Web Development လောကမှာ နာမည်အကြီးဆုံးနဲ့ လူသုံးအများဆုံးဖြစ်တဲ့ PHP Server Side Programming ကို Backend ပိုင်းအတွက် လုံးဝ (လုံးဝ) အခြေခံအဆင့်က နေ Dynamic Website / Web Application တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည် အထိသင်ကြားပေးတဲ့ အတန်းဖြစ်ပါတယ်။
 
 
-✅ ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
+🎯 ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
 ******************************
  - ပြည်တွင်း၊ ပြည်ပမှာ Web Designer (or) Frontend Developer, Web Developer, Web Engineer, Software Engineer, Backend Developer, Programmer အဖြစ်နဲ့ အလုပ်လုပ်ချင်သူတွေ၊
 - နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊
@@ -39,17 +40,19 @@ PHP ကိုသုံးထားတဲ့ Popular Website/App တွေကတ�
 - နည်းပညာ Career နဲ့ အသက်မွှေးဝမ်းကျောင်းပြုလိုသူတွေ။ Website Template တွေကိုဖန်တီးရတာ ၊ Web Developing လုပ်ရတာ၊ Programming Code တွေကို ရေးရတာ ကြိုက်သော်လည်း ဘယ်လို အစပြုရမည်ကို မသိရှိသေးသူများ၊ မည်သည့် သင်တန်း၊ Class ရွေးရမည်ကိုမသိသူများ ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
 
 
-✅ ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+🎯 ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
 ******************************
 Computer/ Laptop တစ်ခုနှင့် Internet Connection ရှိထားရန် လိုပါသည်။ Computer Basic တတ်ထားသူမည်သူမဆို တက်ရောက် လေ့လာနိုင်ပါသည်။
 
 
-✅ ရရှိလာမည့် ကောင်းကျိုး။
+🎯 ရရှိလာမည့် ကောင်းကျိုး။
 ******************************
-Class တစ်ခုလုံး Series အလိုက် Google Class Room တွင် Life Time Access ပေးသွားမည်ဖြစ်ပါသည်။ Web Development Language တွေဖြစ်ကြတဲ့ Html, CSS, etc... ကစ PHP, MySQL, Laravel, API, etc... တို့ကို အခြေခံကစပြီး အဆင့်မြင့်ထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website Design ရေးနည်း နှင့် Website Developing တွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။ ဘာသာရပ် တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာဖြစ်ပြီး Junior Web Developer ရာထူးနဲ့တန်း အလုပ်လျှောက်လို့ ရမှာဖြစ်ပါတယ်။
+Frontend Web Developement နှင့် Backend Web Developement နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website, Web Application ရေးသားနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
+
+ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာဖြစ်ပြီး Junior Web Developer ရာထူးနဲ့တန်း အလုပ်လျှောက်လို့ ရမှာဖြစ်ပါတယ်။
 
 
-✅ လက်တွေ့ Develop လုပ်ရမဲ့ Projects များ
+🎯 လက်တွေ့ Develop လုပ်ရမဲ့ Projects များ
 ******************************
 # For Frontend(Web Design)
 ~ Juli - Personal Portfolio Website Template
@@ -60,15 +63,33 @@ Class တစ်ခုလုံး Series အလိုက် Google Class Room �
 ~ CRUD App with File Uploading
 ~ Hornbill Blogging System using PHP & MySQL (PDO)
 ~ eCommerce System (Online Shopping Web App) using Laravel & MySQL
-*
-*
 
-✅ သင်ကြားပေးမည့်ပုံစံ
+🎯 သင်ကြားပေးမည့်ပုံစံ
 ******************************
-Microsoft Teams or ZOOM နဲ့ Google Class Room ဆိုတဲ့ Platform ၂ ခုနဲ့ သင်ပေးသွားပါမယ်။ ဆရာကိုယ်တိုင် Tuesday ညနေတိုင်း Microsoft Teams or ZOOM ကိုသုံးပြီး Live Session နဲ့ သင်ပေးပြီး၊ တစ်ခြားရက်တွေမှာ လေ့လာရဲ့မယ့် Video Lesson တွေကို Google Class Room မှာတင်ပေးထားမှာဖြစ်ပါတယ်။ Google Class Room တွင် မြန်မာစကားဖြင့် ရှင်းလင်းဆုံး စာတွေ့၊ လက်တွေ့ Episode အလိုက် Step-by-Step Prerecorded Video သင်ခန်းစာများနဲ့လည်း လေ့လာရမှာ ဖြစ်ပါတယ်။ အပါတ်တိုင်း Tuesday မတိုင်ခင်မှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။ Online Class ဖြစ်သည့်အတွက် သင်ခန်းစာများကို အချိန်မရွေး၊ နေရာမရွေး အကြိမ်ကြိမ် လေ့လာလို့ရပါတယ်။ သင်ခန်းစာများကို Class တစ်ခုချင်းစီ ကို Series/Episode အလိုက် သေချာစနစ်တကျ သင်ကြားပေး ထားတာဖြစ်လို့ လေ့လာရ လွယ်ကူပါတယ်။ Basic Level ကနေစပြီး Advanced Level နှင့် လုပ်ခွင် တန်းဝင်လို့ရတဲ့ အဆင့်ရောက်တဲ့အထိ သင်ကြားရမှာ ဖြစ်ပါတယ်နော်။
+၁. ကျောင်းသူ/ကျောင်းသား များဘက်မှ ၁ ပါတ်မှာ ၅ ရက် သင်ယူရပါမည်။
+၂. ဆရာကိုယ်တိုင် တစ်ပါတ် ၁ ရက် (Tuesday 7:30pm to 9:00pm) ညနေတိုင်း Microsoft Teams or ZOOM နဲ့ Live သင်ပေးပါမည်။ (Q & A အချိန်ပါထပ်ဆောင်းထည့်ပေးတာမလို့ စာသင်ပြီးရင် ဆရာ့ကို မေးခွန်းတိုက်ရိုက်မေးလို့ရ)
+၃. ကျန် ၄ ရက်စာ လေ့လာရဲ့မယ့် Lesson တွေကို Google Class Room မှာ ဆရာ ကိုယ်တိုင် Pre-recorded လုပ်ထားတဲ့ Video Lessons တွေကို တင်ပေးထားမှာဖြစ်ပါတယ်။
+၄. အပါတ်တိုင်း Tuesday မတိုင်မီမှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။ Basic Level ကနေစပြီး Advanced Level နှင့် လုပ်ခွင် တန်းဝင်လို့ရတဲ့ အဆင့်ရောက်တဲ့အထိ သင်ကြားရမှာ ဖြစ်ပါတယ်နော်။
 
+🎯Modules
+Frontend & Backend Web Development နည်းပညာ ဘာသာရပ်တွေကို လုံးဝ စုံစုံလင်လင် စနစ်တကျသင်ယူရပါမည်။
+# Frontend Web Developement
+1. Intro to Web Development
+2. Html
+3. CSS
+4. JavaScript
+5. jQuery
+6. Bootstrap5
+7. Related Libraries
+8. Five Projects
+9. Website Template Hosting
 
-✅ Course Outline
+# Backend Web Developement
+1. PHP (PDO), SQL & MySQL
+2. Laravel, MySQL & PostgreSQL
+3. Two Projects
+
+🎯 Modules' Outlines
 ******************************
 Frontend (Web Design) ပိုင်းမှာ Html, CSS, jQuery, JavaScript, Bootstrap5 တွေကို လက်တွေ့ Exercise တွေ၊ Project တွေနဲ့ ပြည့်ပြည့် စုံစုံ သင်ယူရမှာဖြစ်ပါတယ်။
 
@@ -268,3 +289,17 @@ Backend ပိုင်းမှာဆိုရင် ဖြင့် PHP, MySQL
 # Technologies Use
 - Frontend     => HTML, CSS, JavaScript & Bootstrap
 - Backend      => PHP & MySQL (PDO)
+
+
+🎯 Class Date, Time & Duration Info
+# Class Start Date  - 00.00.2023
+# Time              - Tuesday 7:30pm to 9:00pm
+# Duration          - 5 Months
+
+
+🎯 Class Fee
+# 400,000 MMK
+
+
+🎯 Class Registration (သင်တန်းအပ်ရန်)
+သင်တန်းအပ်ရန် Page Messenger မှာ 1 Stop & FWD လို့ပို့ပေးပါ။ (သို့မဟုတ်) 09 403 438 913 သို့လည်း အသေးစိတ် ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။

@@ -1,13 +1,11 @@
 Professional Backend Developer (PHP & Laravel)
 
-🎯 တက်ရောက်နိုင်သော အတန်း
-# In Class    - အပြင်သင်တန်း
-# Online      - Online Live + Video Lessons
+🎯 Online Class (Live + Video Lessons)
 
-ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
-1. Json & Ajax                         - ၅၀,၀၀၀ ကျပ်တန်
-2. API Development with Laravel        - ၁၀၀,၀၀၀ ကျပ်တန်
-3. Git & GitHub                        - ၅၀,၀၀၀ ကျပ်တန်
+🎯 ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
+1. Git & GitHub                        - ၅၀,၀၀၀ ကျပ်တန်
+2. Json & Ajax                         - ၅၀,၀၀၀ ကျပ်တန်
+3. API Development with Laravel        - ၁၀၀,၀၀၀ ကျပ်တန်
 စုစုပေါင်း ၂၀၀,၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၃ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
 
 🎯 PHP, PHP ရဲ့ Popular အဖြစ်ဆုံး Framework ဖြစ်တဲ့ Laravel, SQL, MySQL Database, PostgreSQL Database နှင့် ဆက်စပ် Backend Technologies တွေကို  Basic Level မှ Advanced Level အထိသင်ပေးပြီး Dynamic Website, Web Application တွေကို မိမိကိုယ်တိုင် ရေးသားဖန်တီး တည်ဆောက်နိုင်သည်အထိ လေ့ကျင့် သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
@@ -22,6 +20,12 @@ Computer/ Laptop တစ်ခု ရှိထားရန် လိုအပ်�
 PHP, Laravel နှင့် Database Backend Web Developement နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website, Web Application ရေးသားနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
 
 ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
+
+🎯 သင်ကြားပေးမည့်ပုံစံ
+၁. ကျောင်းသူ/ကျောင်းသား များဘက်မှ ၁ ပါတ်မှာ ၅ ရက် သင်ယူရပါမည်။
+၂. ဆရာကိုယ်တိုင် တစ်ပါတ် ၁ ရက် (Tuesday 7:30pm to 9:00pm) ညနေတိုင်း Microsoft Teams or ZOOM နဲ့ Live သင်ပေးပါမည်။ (Q & A အချိန်ပါထပ်ဆောင်းထည့်ပေးတာမလို့ စာသင်ပြီးရင် ဆရာ့ကို မေးခွန်းတိုက်ရိုက်မေးလို့ရ)
+၃. ကျန် ၄ ရက်စာ လေ့လာရဲ့မယ့် Lesson တွေကို Google Class Room မှာ ဆရာ ကိုယ်တိုင် Pre-recorded လုပ်ထားတဲ့ Video Lessons တွေကို တင်ပေးထားမှာဖြစ်ပါတယ်။
+၄. အပါတ်တိုင်း Tuesday မတိုင်မီမှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။ Assignment တွေကိုအပါတ်တိုင်း ပုံမှန်ထပ်နိုင်ရင် HIT ရဲ့ နောက်ထပ် Class တွေကို Discount နဲ့ တက်ရောက်ခွင့် ရရှိမှာဖြစ်ပြီး၊ ဂုဏ်ထူးပါထွက်ရင် Discount ပိုရမှာဖြစ်ပါတယ်။
 
 🎯 Modules
 1. PHP (PDO), SQL & MySQL
@@ -76,4 +80,15 @@ PHP, Laravel နှင့် Database Backend Web Developement နည်းပ�
 - Backend       => Laravel & PostgreSQL
 
 
-သင်တန်းကြေး     => ၂၀၀,၀၀၀ ကျပ်
+🎯 Class Date, Time & Duration Info
+# Class Start Date  - 00.00.2023
+# Time              - Wednesday 7:30pm to 9:00pm
+# Duration          - 2 Months
+
+
+🎯 Class Fee
+# 250,000 MMK
+
+
+🎯 Class Registration (သင်တန်းအပ်ရန်)
+သင်တန်းအပ်ရန် Page Messenger မှာ PBD လို့ပို့ပေးပါ။ (သို့မဟုတ်) 09 403 438 913 သို့လည်း ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။
