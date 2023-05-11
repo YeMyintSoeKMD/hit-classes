@@ -2,6 +2,11 @@ Professional Frontend Developer (Beginner to Advanced Level)
 
 <!-- 🎯 Online Live + Video Lessons Class 🎯 -->
 
+ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးတဲ့ 
+၁. Git & GitHub                         - ၅၀,၀၀၀ ကျပ်တန်
+၂. Next Step JavaScript                 -  ၈၀,၀၀၀ ကျပ်တန်
+စုစုပေါင်း ၁၃၀,၀၀၀ ကျပ် ကျသင့်မည့် အတန်း ၂ တန်းကို 100% Free (သင်တန်းကြေးအခမဲ့) နဲ့ တက်ရောက်ခွင့်ရရှိမှာဖြစ်ပါတယ်။
+
 🎯 HTML5, CSS3, JavaScript, jQuery - JS Library, Frontend framework တစ်ခုဖြစ်သော Bootstrap Varsion-5 ဘာသာရပ်များ နှင့် Frontend Development နဲ့ပက်သက်သော Libraries တွေ၊ Tools တွေ၊ Technologies တွေကို Basic Level မှ Advanced Level အထိသင်ပေးပြီး Responsive Website Template တွေကို မိမိကိုယ်တိုင် တည်ဆောက်နိုင်သည်အထိ သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
 
 🎯 ဘယ်သူတွေတက်ရောက်သင့်လဲ? ။
