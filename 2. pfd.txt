@@ -45,6 +45,9 @@ Frontend Web Development နည်းပညာ ဘာသာရပ်တွေက
 8. Five Projects
 9. Website Template Hosting
 
+✅ သင်တန်းကြေး အခမဲ့နဲ့ တက်ရောက်ခွင့်ရမည့် Course 
+1. Git & GitHub
+
 🎯 Modules' Outlines
 ✅ 1. Intro to Web Development
 1. What is web development?
