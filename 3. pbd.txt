@@ -1,8 +1,6 @@
-Professional Backend Developer (PHP & Laravel)
+Professional Backend Developer
 
-🎯 Online Class (Live + Video Lessons)
-
-🎯 ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
+✅ ယခု အတန်းကို တက်လိုက်ရုံနဲ့ နောက်ထပ် Web Developer တွေအတွက် အရမ်းအရေးကြီးပြီး၊ Job Ready အတွက် လေ့ကိုလေ့လာရမဲ့
 1. Git & GitHub                        - ၅၀,၀၀၀ ကျပ်တန်
 2. Json & Ajax                         - ၅၀,၀၀၀ ကျပ်တန်
 3. API Development with Laravel        - ၁၀၀,၀၀၀ ကျပ်တန်
@@ -11,23 +9,47 @@ Professional Backend Developer (PHP & Laravel)
 🎯 PHP, PHP ရဲ့ Popular အဖြစ်ဆုံး Framework ဖြစ်တဲ့ Laravel, SQL, MySQL Database, PostgreSQL Database နှင့် ဆက်စပ် Backend Technologies တွေကို  Basic Level မှ Advanced Level အထိသင်ပေးပြီး Dynamic Website, Web Application တွေကို မိမိကိုယ်တိုင် ရေးသားဖန်တီး တည်ဆောက်နိုင်သည်အထိ လေ့ကျင့် သင်ကြားပေးသောအတန်းဖြစ်ပါသည်။
 
 🎯 ဘယ်သူတွေတက်ရောက်သင့်လဲ?။
-Web Developer, Web Engineer, Software Engineer, Backend Developer, Programmer ဖြစ်ချင်သူတွေ၊ နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊ ကိုယ့်ရဲ့ Coding Skill ကိုမြှင့်တင်ချင်ကြတဲ့ HND & NCC တက်နေကြတဲ့ ကျောင်းသူ/သားတွေ၊ Web Development ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ တက်ရောက်သင့်ပါတယ်။ Frontend Development ဖြစ်တဲ့ HTML, CSS, JavaScript တို့ကိုတော့လေ့လာထားပြီးပြီ ဒါပေမယ့် နောက်ထပ်ဘာကို လေ့လာရမလဲဆိုတာ မသိတဲ့သူတွေ၊ PHP နှင့် Laravel Framework ကို သေသေချာချာ၊ သပ်သပ်ရပ်ရပ်လေ့လာချင်သူတွေ၊ နည်းပညာ Career နဲ့ အသက်မွှေး၀မ်းကျောင်းပြုလိုသူတွေ။ Website, Web Application တွေကိုဖန်တီးရတာ, Freelance Web Developer ဖြစ်ချင်သူတွေ ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+👉 Web Developer, Web Engineer, Software Engineer, Backend Developer, Programmer ဖြစ်ချင်သူတွေ
+
+👉 နည်းပညာ ကျောင်းသား/သူတွေ၊ ကွန်ပျူတာ ကျောင်းသား/သူတွေ၊ ကိုယ့်ရဲ့ Coding Skill ကိုမြှင့်တင်ချင်ကြတဲ့ HND & NCC တက်နေကြတဲ့ ကျောင်းသူ/သားတွေ
+
+👉 Web Development ပညာရပ်ကို ကောင်းကောင်းမွန်မွန်လေ့လာချင်သူတွေ
+
+👉 Frontend Development ဖြစ်တဲ့ HTML, CSS, JavaScript, Bootstrap တို့ကိုတော့လေ့လာထားပြီးပြီ ဒါပေမယ့် နောက်ထပ်ဘာကို လေ့လာရမလဲဆိုတာ မသိတဲ့သူတွေ
+
+👉 PHP နှင့် Laravel Framework ကို သေသေချာချာ၊ သပ်သပ်ရပ်ရပ်လေ့လာချင်သူတွေ၊ နည်းပညာ Career နဲ့ အသက်မွှေး၀မ်းကျောင်းပြုလိုသူတွေ
+
+👉 Website, Web Application တွေကိုဖန်တီးရတာ, Freelance Web Developer ဖြစ်ချင်သူတွေ
+
+ဒီ Class ကို တက်ရောက် နိုင်ပါသည်။
 
 🎯 ဘာတွေလိုအပ်လဲ၊ ဘာတွေတတ်မြောက်ထားသင့်လဲ?။
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 Computer/ Laptop တစ်ခု ရှိထားရန် လိုအပ်ပါသည်။ Frontend Development ဖြစ်တဲ့ Html, CSS, JavaScript, Bootstrap တတ်ထားသူများ (သို့) HIT ရဲ့ Web Developement Foundation (or) Professional Frontend Developer Class တက်ထားသူများ တက်ရောက်နိုင်ပါသည်။
 
 🎯 ရရှိလာမည့် ကောင်းကျိုး။
-PHP, Laravel နှင့် Database Backend Web Developement နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။ Website, Web Application ရေးသားနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+PHP, Laravel နှင့် Database Backend Web Developement နည်းပညာ တို့ကို အခြေခံကစပြီး အဆင့်မြင့်အထိ နားလည် တတ်ကျွမ်းသွားပါမည်။
+
+Website, Web Application ရေးသားနည်းတွေကို လုပ်ငန်းခွင်မှာ တကယ်လက်တွေ့လုပ်ကိုင်ရမယ့် ပုံစံနဲ့ သင်ကြား ပေးသောကြောင့် Experience တွေရရှိသွားပါမည်။
 
 ဘာသာရပ်တိုင်းကို လက်တွေ့ Exercise တွေ Project တွေနဲ့ သင်ကြားရမှာဖြစ်တဲ့အတွက် Project တစ်ခုလုံးကို Handle လုပ်နိုင်တဲ့ လုပ်ငန်းခွင်ဝင်နိုင်တဲ့ အဆင့်ထိ ကျွမ်းကျင်သွားမှာ ဖြစ်ပါသည်။
 
-🎯 သင်ကြားပေးမည့်ပုံစံ
-၁. ကျောင်းသူ/ကျောင်းသား များဘက်မှ ၁ ပါတ်မှာ ၅ ရက် သင်ယူရပါမည်။
-၂. ဆရာကိုယ်တိုင် တစ်ပါတ် ၁ ရက် (Tuesday 7:30pm to 9:00pm) ညနေတိုင်း Microsoft Teams or ZOOM နဲ့ Live သင်ပေးပါမည်။ (Q & A အချိန်ပါထပ်ဆောင်းထည့်ပေးတာမလို့ စာသင်ပြီးရင် ဆရာ့ကို မေးခွန်းတိုက်ရိုက်မေးလို့ရ)
-၃. ကျန် ၄ ရက်စာ လေ့လာရဲ့မယ့် Lesson တွေကို Google Class Room မှာ ဆရာ ကိုယ်တိုင် Pre-recorded လုပ်ထားတဲ့ Video Lessons တွေကို တင်ပေးထားမှာဖြစ်ပါတယ်။
-၄. အပါတ်တိုင်း Tuesday မတိုင်မီမှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။ Assignment တွေကိုအပါတ်တိုင်း ပုံမှန်ထပ်နိုင်ရင် HIT ရဲ့ နောက်ထပ် Class တွေကို Discount နဲ့ တက်ရောက်ခွင့် ရရှိမှာဖြစ်ပြီး၊ ဂုဏ်ထူးပါထွက်ရင် Discount ပိုရမှာဖြစ်ပါတယ်။
+🎯 သင်ကြားပေးမည့်ပုံစံ (For Online Class)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+👉 ကျောင်းသူ/ကျောင်းသား များဘက်မှ ၁ ပါတ်မှာ ၅ ရက် သင်ယူရပါမည်။
 
-🎯 Modules(သင်ယူရမည့် ဘာသာရပ်များ)
+👉 ဆရာကိုယ်တိုင် တစ်ပါတ် ၁ ရက် (Wednesday 7:30pm to 9:00pm) ညနေတိုင်း Microsoft Teams or ZOOM နဲ့ Live သင်ပေးပါမည်။ (Q & A အချိန်ပါထပ်ဆောင်းထည့်ပေးတာမလို့ စာသင်ပြီးရင် ဆရာ့ကို မေးခွန်းတိုက်ရိုက်မေးလို့ရ)
+
+👉 ကျန် ၄ ရက်စာ လေ့လာရဲ့မယ့် Lesson တွေကို Google Class Room မှာ ဆရာ ကိုယ်တိုင် Pre-recorded လုပ်ထားတဲ့ Video Lessons တွေကို တင်ပေးထားမှာဖြစ်ပါတယ်။
+
+👉 အပါတ်တိုင်း Wednesday မတိုင်မီမှာ ပေးထားတဲ့ Assignment တွေကိုတင်ရမှာ ဖြစ်ပါတယ်။ Basic Level ကနေစပြီး Advanced Level နှင့် လုပ်ခွင် တန်းဝင်လို့ရတဲ့ အဆင့်ရောက်တဲ့အထိ သင်ကြားရမှာ ဖြစ်ပါတယ်နော်။
+
+👉 Assignment တွေကိုအပါတ်တိုင်း ပုံမှန်ထပ်နိုင်ရင် HIT ရဲ့ နောက်ထပ် Class တွေကို Discount နဲ့ တက်ရောက်ခွင့် ရရှိမှာဖြစ်ပြီး၊ ဂုဏ်ထူးပါထွက်ရင် Discount ပိုရမှာဖြစ်ပါတယ်။
+
+🎯Modules (သင်ယူရမည့် ဘာသာရပ်များ)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 Backend Web Development နည်းပညာ ဘာသာရပ်တွေကို စုံစုံလင်လင် စနစ်တကျသင်ယူရပါမည်။
 1. PHP (PDO), SQL & MySQL
 2. Laravel, MySQL & PostgreSQL
@@ -38,43 +60,8 @@ Backend Web Development နည်းပညာ ဘာသာရပ်တွေက�
 2. Json & Ajax
 3. API Development with Laravel
 
-
-🎯 Modules' Outlines
-✅ 1. PHP (PDO), SQL & MySQL
-01. Intro
-02. Development Environment
-03. Syntax
-04. Comments
-05. Output Methods
-06. Variables
-07. Expression & Statement
-08. Data Type
-09. String
-10. Number, Boolean & Null
-11. Array
-12. Math
-13. Operators
-14. Conditions
-15. Loops
-16. Array Loops
-17. Functions
-18. Date & Time
-19. Include
-20. File Handling
-21. Useful Functions
-22. Super Global Variables
-23. Redirecting to a File
-24. Form & Requests Handling
-25. File Upload
-26. Session
-27. Cookies
-28. MySQL Database & SQL
-
-
-✅ 2. Laravel, MySQL & PostgreSQL
-
-
-✅ 3. Two Projects
+🎯 လက်တွေ့ Develop လုပ်ရမည့် Project များ
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 1. Hornbill Blogging System - PHP Final Project
 # Technologies Use
 - Frontend     => HTML, CSS, JavaScript & Bootstrap
@@ -87,14 +74,22 @@ Backend Web Development နည်းပညာ ဘာသာရပ်တွေက�
 
 
 🎯 Class Date, Time & Duration Info
-# Class Start Date  - 00.00.2023
-# Time              - Wednesday 7:30pm to 9:00pm
-# Duration          - 2 Months
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+✳️ In Class (အပြင်သင်တန်း)
+♾️ Class Start Date  - 00.00.2023
+♾️ Time              - Sat & Sun
+♾️ Duration          - 2 Months
 
+✳️ Online Class
+♾️ Class Start Date  - 00.00.2023
+♾️ Time              - Wednesday 7:30pm to 9:00pm
+♾️ Duration          - 2 Months
 
 🎯 Class Fee
-# 250,000 MMK
-
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+♾️ In Class (အပြင်သင်တန်း)    - 300,000 MMK
+♾️ Online Class              - 250000 MMK
 
 🎯 Class Registration (သင်တန်းအပ်ရန်)
-သင်တန်းအပ်ရန် Page Messenger မှာ PBD လို့ပို့ပေးပါ။ (သို့မဟုတ်) 09 403 438 913 သို့လည်း ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+သင်တန်းအပ်ရန် Page Messenger မှာ PBD လို့ပို့ပေးပါ။ (သို့မဟုတ်) 09 403 438 913 သို့လည်း အသေးစိတ် ဆက်သွယ် မေးမြန်းနိုင်ပါတယ်။
